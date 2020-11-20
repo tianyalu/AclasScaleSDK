@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="scale">scale</string>
+    <string name="scale_weight">weight</string>
+    <string name="scale_tare">Tare</string>
+    <string name="scale_pretare">PreTare</string>
+    <string name="scale_zero">Zero</string>
+    <string name="scale_stable">Stable</string>
+    <string name="scale_netweight">NetWeight:</string>
+    <string name="scale_tareweight">TareWeight:</string>
+    <string name="scale_grossweight">GrossWeight:</string>
+    <string name="scale_version">Version:</string>
+    <string name="scale_upgrade">Upgrade Firmware</string>
+    
+    <string name="scale_success">success</string>
+    <string name="scale_failed">failed</string>
+    <string name="scale_addr">Com address:</string>
+    <string name="scale_address">/dev/ttyS0</string>
+    <string name="scale_confirm">Open</string>
+    <string name="scale_readstart">StartRead</string>
+    <string name="scale_readstop">StopRead</string>
+    
+    <string name="scale_tareread">ReadTare</string>
+    <string name="scale_pluread">ReadPLU</string>
+    <string name="scale_pluwrite">WritePLU</string>
+    <string name="scale_close">Close</string>
+    
+    
+    
+    <string-array name="DeviceType">
+        <item>计重模式</item>
+        <item>计价模式</item>
+    </string-array>
+
+</resources>
